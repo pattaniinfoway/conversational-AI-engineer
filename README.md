@@ -33,4 +33,4 @@ $ npm start
 http://localhost:3000/parseDoc
 ```
 
-
+It will give the out in # Json Response as expected
