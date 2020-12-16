@@ -1,6 +1,6 @@
 
 
-# Nconversational-AI-engineer   ![Version][version-image]
+# conversational-AI-engineer   ![Version][version-image]
 
 ![Linux Build][linuxbuild-image]
 ![Windows Build][windowsbuild-image]
@@ -27,4 +27,10 @@ Start Express.js app at `http://localhost:3000/`:
 $ npm start
 ```
 
-# Nodemon
+# Run below API on Postman
+
+```bash
+http://localhost:3000/parseDoc
+```
+
+
